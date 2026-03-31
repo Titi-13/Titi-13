@@ -1,63 +1,58 @@
-##Buenas, Soy Titi!
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&customColorList=0,10,20,30&height=220&section=header&text=¡Hola,%20soy%20Titi!%20🚀&fontSize=55&animation=fadeIn&fontColor=38bdf8&fontAlignY=40" />
+</p>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/view?type=waving&color=gradient&height=200&section=header&text=Hola,%20soy%20Cristy!&fontSize=70&animation=fadeIn&fontAlignY=35" />
 
-  <h1>💻 Software Engineering Student | Cybersecurity Enthusiast</h1>
+### 💻 Estudiante de Ingeniería en Sistemas Computacionales
+#### 🛡️ Entusiasta de Ciberseguridad & Linux
 
-  <p>
-    <a href="https://github.com/tu-usuario">
-      <img src="https://img.shields.io/badge/STATUS-ACTIVE-brightgreen?style=for-the-badge&logo=github" />
-    </a>
-    <img src="https://img.shields.io/badge/LEARNING-CYBERSECURITY-red?style=for-the-badge&logo=target" />
-  </p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Desarrolladora;Practicas+de+ciberseguridad+en+proceso;Amante+de+la+automatización;Amor+por+distribusiones+Linux)](https://git.io/typing-svg)
+
 </div>
 
 ---
 
-### 🚀 Sobre mí
+###  Proyectos Destacados
+<div align="center">
 
-Soy una apasionada del desarrollo de software y la administración de sistemas. Actualmente me enfoco en dominar entornos **Linux** y profundizar en el mundo del **Hacking Ético**. Mi objetivo es construir soluciones eficientes, seguras y robustas.
+| 📚 Biblioteca Elias Nandino | 🤖 WhatsApp Bot (Baileys) |
+| :--- | :--- |
+| <p align="center">Sistema de gestión con **JavaFX**, **MySQL** y roles de seguridad.</p> | <p align="center">Automatización de registros y gestión de grupos con **Node.js**.</p> |
 
-* 🔭 **Proyecto actual:** Desarrollo de bots con Node.js y gestión de servidores openSUSE.
-* ⚡ **Habilidades:** C++, JavaFX, Assembly (NASM) y Gestión de Redes.
-* 🐧 **SO Preferido:** Ubuntu / Kali Linux / openSUSE.
+| 🖥️ Servidor Home Lab | 🛡️ Laboratorio de Redes |
+| :--- | :--- |
+| <p align="center">Configuración de sistemas **Linux** (openSUSE/Ubuntu) y Windows.</p> | <p align="center">Pruebas de conectividad **LAN** y seguridad de red.</p> |
+
+</div>
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
-
-<div align="left">
+###  Tecnologías & Herramientas
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <br>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <br>
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-</div>
+  <img src="https://img.shields.io/badge/Ubuntu-E94333?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/openSUSE-73BA48?style=for-the-badge&logo=opensuse&logoColor=white" />
+</p>
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
+###  Contacto
+<p align="center">
+<a href="https://www.instagram.com/cris._.664?igsh=MTRiN3c3amYyNDJ0cQ==" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=38bdf8&labelColor=000000" alt="Instagram" />
+</a>
+</p>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=tokyonight" />
-</div>
-
----
-
-### 📫 Contacto
-
-<div align="center">
-  <a href="mailto:tu-correo@ejemplo.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/tu-perfil">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
-
-<br />
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer&flip=true&fontColor=38bdf8" />
+</p>
